@@ -18,10 +18,8 @@ A machine learning-based predictive maintenance solution that helps identify pot
 * NumPy
 * Scikit-learn
 * HTML & CSS
-* 
+  
 ## Project Structure
-
-```text
 src/
 ├── components/
 ├── pipeline/
@@ -30,13 +28,3 @@ src/
 templates/
 static/
 app.py
-```
-
-## Future Enhancements
-
-* Real-time monitoring
-* Advanced failure prediction models
-* Interactive analytics dashboard
-* Cloud deployment
-
-GitHub: https://github.com/ketan15-tech
